@@ -1,9 +1,9 @@
 #write your code here
 
 def countdown(n)
-  counter = 10 
-  until counter = 0
-  counter -= 1
+  n = 10 
+  until n = 0
+  n -= 1
   puts "#{n} SECONDS!"
 end
 end
